@@ -19,7 +19,7 @@ Software used:  Python 3.7.6, Visual Studio Code 1.46.1
 
 ## Summary
 
-The analysis of the data provided output the following:
+### The analysis of the data provided output the following:
 Election Results
 -------------------------
 Total Votes: 369,711
